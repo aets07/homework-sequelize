@@ -203,4 +203,4 @@ Crearemos otro endpoint para obtener todos los datos del personajes pero incluye
       ]
     }
 
-```
+```# homework-sequelize
